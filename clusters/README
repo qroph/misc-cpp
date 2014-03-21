@@ -1,0 +1,2 @@
+A small application that implements single-linkage clustering.
+Uses a disjoint-set data structure to merge clusters together.
